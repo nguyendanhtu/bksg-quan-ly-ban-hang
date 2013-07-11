@@ -1,0 +1,100 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPUserService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPUserService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPUserService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPData.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPException.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPData.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPData.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPException.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\bin\IPException.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPUserService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPUserService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPUserService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPData.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPException.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPData.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPData.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPException.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\bin\IPException.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\obj\Debug\IPUserService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\obj\Debug\IPUserService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPUserService.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPUserService.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPUserService.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPBusinessService.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPData.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPException.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\C1.Common.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPBusinessService.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPBusinessService.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPCommon.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPData.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPData.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPException.pdb
+F:\QuanLyKho\02. SourceCode\IPUserService\bin\IPException.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\obj\Debug\IPUserService.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPUserService\obj\Debug\IPUserService.dll
+F:\QuanLyKho\02. SourceCode\IPUserService\obj\Debug\IPUserService.xml
+F:\QuanLyKho\02. SourceCode\IPUserService\obj\Debug\IPUserService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPUserService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPUserService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPUserService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPBusinessService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPData.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPException.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\C1.Common.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPBusinessService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPBusinessService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPData.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPData.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPException.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\bin\IPException.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\obj\Debug\IPUserService.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\obj\Debug\IPUserService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\obj\Debug\IPUserService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPUserService\obj\Debug\IPUserService.pdb

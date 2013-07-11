@@ -1,0 +1,119 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IPCommon.vbproj.GenerateResource.Cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\IPCommon.pdb
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\C1.Common.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IPCommon.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IPCommon.vbproj.GenerateResource.Cache
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\IPCommon\obj\Debug\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\C1.Common.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\bin\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IPCommon.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton2.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlButton3.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.ctlClock.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgButtonYes_No_Cancel.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBtn_Yes_No.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.DataGrid_Custom.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.f370_REPORT_VIEW.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmEditText.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmIcons.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchDate.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchNumeric.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.frmSearchString.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_Yes_No.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxFormYes_No_Cancel.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IP.Core.IPCommon.MessageForms.MsgBoxForm_OK.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IPCommon.vbproj.GenerateResource.Cache
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPCommon\obj\Debug\IPCommon.pdb

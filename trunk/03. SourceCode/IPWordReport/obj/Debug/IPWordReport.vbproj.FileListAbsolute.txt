@@ -1,0 +1,52 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\Interop.Word.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\bin\Interop.VBIDE.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\Interop.VBIDE.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\IPWordReport.vbproj.ResolveComReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\Interop.Word.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\Interop.VBIDE.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\bin\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\Interop.VBIDE.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\IPWordReport.vbproj.ResolveComReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.pdb
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.pdb
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.xml
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\Interop.Word.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\Interop.VBIDE.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\bin\Interop.Microsoft.Office.Core.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\IPWordReport.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\Interop.VBIDE.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\IPWordReport.vbproj.ResolveComReference.cache
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.dll
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.xml
+F:\QuanLyKho\02. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\IP.Core.IPWordReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\Interop.Word.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\Interop.VBIDE.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\bin\Interop.Microsoft.Office.Core.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\IPWordReport.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\Interop.VBIDE.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\IPWordReport.vbproj.ResolveComReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPWordReport\obj\Debug\IP.Core.IPWordReport.pdb

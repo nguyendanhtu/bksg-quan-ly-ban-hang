@@ -1,0 +1,147 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbproj.GenerateResource.Cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPData.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPException.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPData.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPData.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPException.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\bin\IPException.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPData.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPException.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPUserService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\SiSButton.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPData.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPData.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPException.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPException.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\bin\IPUserService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\C1.Common.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPData.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPException.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPUserService.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\SiSButton.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPData.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPData.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPException.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPException.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\bin\IPUserService.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbproj.GenerateResource.Cache
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+F:\QuanLyKho\02. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPSystemAdmin.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\C1.Common.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPBusinessService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPData.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPException.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPUserService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\SiSButton.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\SiSMenu.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPBusinessService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPBusinessService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPData.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPData.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPException.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPException.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPUserService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\bin\IPUserService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f100_TuDien.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f101_Dang_Nhap.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f102_TuDien_DE.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IP.Core.IPSystemAdmin.f996_license.resources
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.vbproj.GenerateResource.Cache
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll.licenses
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPSystemAdmin\obj\Debug\IPSystemAdmin.pdb

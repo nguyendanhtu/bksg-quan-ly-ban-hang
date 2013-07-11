@@ -1,0 +1,28 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\bin\Debug\SaleDS.dll.config
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\bin\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\bin\Debug\SaleDS.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\obj\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleDS\obj\Debug\SaleDS.pdb
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\bin\Debug\SaleDS.dll.config
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\bin\Debug\SaleDS.dll
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\bin\Debug\SaleDS.pdb
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\obj\Debug\ResolveAssemblyReference.cache
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\obj\Debug\SaleDS.dll
+D:\3. BKIndex\0. Project Repository\Google code\sale-project\SourceCode\SaleDS\obj\Debug\SaleDS.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\bin\Debug\SaleDS.dll.config
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\bin\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\bin\Debug\SaleDS.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\obj\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleDS\obj\Debug\SaleDS.pdb
+F:\QuanLyKho\02. SourceCode\SaleDS\bin\Debug\SaleDS.dll.config
+F:\QuanLyKho\02. SourceCode\SaleDS\bin\Debug\SaleDS.dll
+F:\QuanLyKho\02. SourceCode\SaleDS\bin\Debug\SaleDS.pdb
+F:\QuanLyKho\02. SourceCode\SaleDS\obj\Debug\SaleDS.dll
+F:\QuanLyKho\02. SourceCode\SaleDS\obj\Debug\SaleDS.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleDS\bin\Debug\SaleDS.dll.config
+F:\New folder\QuanLyKho\03. SourceCode\SaleDS\bin\Debug\SaleDS.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleDS\bin\Debug\SaleDS.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleDS\obj\Debug\SaleDS.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleDS\obj\Debug\SaleDS.pdb

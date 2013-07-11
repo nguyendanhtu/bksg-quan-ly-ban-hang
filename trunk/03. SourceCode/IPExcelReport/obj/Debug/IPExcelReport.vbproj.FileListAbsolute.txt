@@ -1,0 +1,76 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\Interop.Office.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPExcelReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPExcelReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\Interop.Excel.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\Interop.Office.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\C1.Common.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\bin\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPExcelReport.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPExcelReport.xml
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\Interop.Excel.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\Interop.Office.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\C1.Common.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPCommon.pdb
+F:\QuanLyKho\02. SourceCode\IPExcelReport\bin\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+F:\QuanLyKho\02. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+F:\QuanLyKho\02. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPExcelReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPExcelReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPExcelReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\Interop.Excel.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\Interop.Microsoft.Office.Core.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\Interop.Office.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\C1.Common.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\bin\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPExcelReport\obj\Debug\IPExcelReport.pdb
