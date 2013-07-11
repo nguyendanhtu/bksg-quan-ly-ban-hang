@@ -1,0 +1,40 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPException.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPException.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\bin\IPException.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPBusinessService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPBusinessService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPException.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPException.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\bin\IPException.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPBusinessService.dll
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPBusinessService.xml
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPException.dll
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPException.pdb
+F:\QuanLyKho\02. SourceCode\IPBusinessService\bin\IPException.xml
+F:\QuanLyKho\02. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.vbprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+F:\QuanLyKho\02. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+F:\QuanLyKho\02. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPBusinessService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPBusinessService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPBusinessService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPException.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPException.pdb
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\bin\IPException.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.vbprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.dll
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.xml
+F:\New folder\QuanLyKho\03. SourceCode\IPBusinessService\obj\Debug\IPBusinessService.pdb

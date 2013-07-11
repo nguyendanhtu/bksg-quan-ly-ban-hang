@@ -1,0 +1,451 @@
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f001_main_form.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f201_dm_category.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f202_dm_category_de.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f996_license_form.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f998_ht_nguoi_su_dung_de.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.f999_ht_nguoi_su_dung.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\IPChart.frmBarChart.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\IPChart.frmPieChart.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.csproj.GenerateResource.Cache
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.exe.licenses
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleApp.exe
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleApp.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\C1.Common.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\C1.Win.C1Input.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\ChartLibrary.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\Interop.Excel.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\Interop.Office.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\Interop.Word.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPBusinessService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPCommon.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPData.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPExcelReport.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPException.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPUserService.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\mcombobox.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleUS.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SiSButton.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SiSMenu.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\office.dll
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPUserService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPUserService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\office.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPExcelReport.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPExcelReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPBusinessService.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPData.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPData.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPCommon.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPCommon.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPException.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IPException.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleUS.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\bin\Debug\SaleDS.pdb
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.exe
+D:\00. BKIndex\01. Project\Projects\02. Application\QuanLyKho\PROJECT_BAN HANG\SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+C:\Users\MinhNN\Desktop\sale-project\SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+C:\Users\MinhNN\Desktop\sale-project\SourceCode\SaleApp\obj\Debug\SaleApp.exe
+C:\Users\MinhNN\Desktop\sale-project\SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.exe
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\ResolveAssemblyReference.cache
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f001_main_form.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f201_dm_category.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f202_dm_category_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f211_gd_bill.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f302_dm_product_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f311_gd_product_price.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f321_nhap_so_du_hang_hoa.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f331_xuat_ban_hang.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f332_xuat_ban_hang_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f351_nhap_hang_nha_san_xuat.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f401_dm_company_info.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f402_dm_company_info_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f501_dm_customer.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f502_dm_customer_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f601_dm_customer_group.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f602_dm_customer_group_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f701_dm_provider.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f702_dm_provider_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f801_dm_repository.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f802_dm_repository_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f901_dm_unit.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f902_dm_uinit_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f921_bao_cao_theo_nhom.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f931_bao_cao_theo_hang.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f932_bao_cao_doanh_thu_theo_ky.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f961_bao_cao_xuat_nhap_trong_ky.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f971_danh_sach_phieu_nhap_xuat_trong_ky.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f996_license_form.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f998_ht_nguoi_su_dung_de.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f999_ht_nguoi_su_dung.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\IPChart.frmBarChart.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\IPChart.frmPieChart.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.exe.licenses
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleApp.exe
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleApp.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\C1.Common.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\C1.Win.C1Input.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\ChartLibrary.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalDecisions.Shared.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalDecisions.Web.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.BonusSkins.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.Data.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.OfficeSkins.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.Utils.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.XtraBars.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\DevExpress.XtraVerticalGrid.v10.1.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\Interop.Excel.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\Interop.Office.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\Interop.Word.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPBusinessService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPCommon.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPData.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPExcelReport.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPException.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPUserService.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\mcombobox.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleDS.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleUS.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SiSButton.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SiSMenu.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\CrystalReportPluginLib.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\office.dll
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleDS.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\SaleUS.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPBusinessService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPBusinessService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPCommon.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPCommon.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPData.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPData.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPExcelReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPExcelReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPException.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPException.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPSystemAdmin.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPUserService.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IPUserService.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.pdb
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\bin\Debug\office.xml
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QLKho\SourceCode\SaleApp\obj\Debug\SaleApp.f301_dm_product.resources
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.exe
+D:\00. BKIndex\01. Project\01. Projects\02. Application\QuanLyKho\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.exe
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.exe
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Common.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1Input.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\ChartLibrary.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Shared.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Web.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Excel.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Office.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Word.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\mcombobox.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleDS.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleUS.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SiSButton.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SiSMenu.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalReportPluginLib.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleDS.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleUS.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.pdb
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.xml
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csprojResolveAssemblyReference.cache
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.ResolveComReference.cache
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f001_main_form.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f201_dm_category.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f202_dm_category_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f211_gd_bill.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f301_dm_product.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f302_dm_product_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f311_gd_product_price.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f321_nhap_so_du_hang_hoa.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f331_xuat_ban_hang.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f332_xuat_ban_hang_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f351_nhap_hang_nha_san_xuat.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f401_dm_company_info.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f402_dm_company_info_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f501_dm_customer.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f502_dm_customer_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f601_dm_customer_group.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f602_dm_customer_group_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f701_dm_provider.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f702_dm_provider_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f801_dm_repository.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f802_dm_repository_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f901_dm_unit.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f902_dm_uinit_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f921_bao_cao_theo_nhom.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f931_bao_cao_theo_hang.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f932_bao_cao_doanh_thu_theo_ky.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f961_bao_cao_xuat_nhap_trong_ky.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f971_danh_sach_phieu_nhap_xuat_trong_ky.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f996_license_form.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f998_ht_nguoi_su_dung_de.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f999_ht_nguoi_su_dung.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\IPChart.frmBarChart.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\IPChart.frmPieChart.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.GenerateResource.Cache
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.exe.licenses
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.vi-VN.resources
+F:\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\vi-VN\SaleApp.resources.dll
+F:\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\vi-VN\SaleApp.resources.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.ResolveComReference.cache
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.exe
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.exe
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleApp.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\vi-VN\SaleApp.resources.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Common.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\C1.Win.C1Input.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\ChartLibrary.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Web.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Excel.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Office.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Interop.Word.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\mcombobox.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleDS.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleUS.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SiSButton.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SiSMenu.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\CrystalReportPluginLib.dll
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleDS.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\SaleUS.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPBusinessService.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPCommon.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPData.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPExcelReport.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPException.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IPUserService.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.pdb
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.xml
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f001_main_form.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f201_dm_category.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f202_dm_category_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f211_gd_bill.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f301_dm_product.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f302_dm_product_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f311_gd_product_price.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f321_nhap_so_du_hang_hoa.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f331_xuat_ban_hang.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f332_xuat_ban_hang_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f351_nhap_hang_nha_san_xuat.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f401_dm_company_info.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f402_dm_company_info_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f501_dm_customer.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f502_dm_customer_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f601_dm_customer_group.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f602_dm_customer_group_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f701_dm_provider.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f702_dm_provider_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f801_dm_repository.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f802_dm_repository_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f901_dm_unit.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f902_dm_uinit_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f921_bao_cao_theo_nhom.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f931_bao_cao_theo_hang.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f932_bao_cao_doanh_thu_theo_ky.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f961_bao_cao_xuat_nhap_trong_ky.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f971_danh_sach_phieu_nhap_xuat_trong_ky.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f996_license_form.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f998_ht_nguoi_su_dung_de.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.f999_ht_nguoi_su_dung.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\IPChart.frmBarChart.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\IPChart.frmPieChart.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.vi-VN.resources
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.GenerateResource.Cache
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\SaleApp.exe.licenses
+F:\New folder\QuanLyKho\02. SourceCode\SaleApp\obj\Debug\vi-VN\SaleApp.resources.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleApp.exe.config
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.ResolveComReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.exe
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleApp.exe
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleApp.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\vi-VN\SaleApp.resources.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\C1.Common.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\C1.Win.C1Input.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\ChartLibrary.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Shared.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Web.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\Interop.Excel.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\Interop.Office.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\Interop.Word.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPBusinessService.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPCommon.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPData.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPExcelReport.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPException.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPUserService.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\mcombobox.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleDS.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleUS.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SiSButton.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SiSMenu.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\CrystalReportPluginLib.dll
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleDS.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\SaleUS.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPBusinessService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPBusinessService.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPCommon.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPCommon.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPData.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPData.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPExcelReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPExcelReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPException.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPException.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPSystemAdmin.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPUserService.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IPUserService.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.pdb
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\bin\Debug\IP.Core.IPWordReport.xml
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.csprojResolveAssemblyReference.cache
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f001_main_form.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f201_dm_category.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f202_dm_category_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f211_gd_bill.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f301_dm_product.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f302_dm_product_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f311_gd_product_price.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f321_nhap_so_du_hang_hoa.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f331_xuat_ban_hang.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f332_xuat_ban_hang_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f351_nhap_hang_nha_san_xuat.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f401_dm_company_info.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f402_dm_company_info_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f501_dm_customer.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f502_dm_customer_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f601_dm_customer_group.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f602_dm_customer_group_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f701_dm_provider.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f702_dm_provider_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f801_dm_repository.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f802_dm_repository_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f901_dm_unit.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f902_dm_uinit_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f921_bao_cao_theo_nhom.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f931_bao_cao_theo_hang.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f932_bao_cao_doanh_thu_theo_ky.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f961_bao_cao_xuat_nhap_trong_ky.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f971_danh_sach_phieu_nhap_xuat_trong_ky.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f996_license_form.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f998_ht_nguoi_su_dung_de.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.f999_ht_nguoi_su_dung.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\IPChart.frmBarChart.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\IPChart.frmPieChart.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\form_BanHang_V1_26_6.frm_CN_BANHANG.vi-VN.resources
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.csproj.GenerateResource.Cache
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\SaleApp.exe.licenses
+F:\New folder\QuanLyKho\03. SourceCode\SaleApp\obj\Debug\vi-VN\SaleApp.resources.dll
