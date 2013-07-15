@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_V_DM_NHA_CUNG_CAP" targetNamespace="http://tempuri.org/DS_V_DM_NHA_CUNG_CAP.xsd" xmlns:mstns="http://tempuri.org/DS_V_DM_NHA_CUNG_CAP.xsd" xmlns="http://tempuri.org/DS_V_DM_NHA_CUNG_CAP.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QuanlybanhangConnectionString6" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QuanlybanhangConnectionString6 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SaleDS.Properties.Settings.GlobalReference.Default.QuanlybanhangConnectionString6" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_DM_NHA_CUNG_CAPTableAdapter" GeneratorDataComponentClassName="V_DM_NHA_CUNG_CAPTableAdapter" Name="V_DM_NHA_CUNG_CAP" UserDataComponentName="V_DM_NHA_CUNG_CAPTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QuanlybanhangConnectionString6 (Settings)" DbObjectName="Quanlybanhang.dbo.V_DM_NHA_CUNG_CAP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, MA_DOI_TUONG, TEN_DOI_TUONG, SDT, EMAIL, DIA_CHI, FAX, MA_SO_THUE FROM dbo.V_DM_NHA_CUNG_CAP</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id" DataSetColumn="id" />
+              <Mapping SourceColumn="MA_DOI_TUONG" DataSetColumn="MA_DOI_TUONG" />
+              <Mapping SourceColumn="TEN_DOI_TUONG" DataSetColumn="TEN_DOI_TUONG" />
+              <Mapping SourceColumn="SDT" DataSetColumn="SDT" />
+              <Mapping SourceColumn="EMAIL" DataSetColumn="EMAIL" />
+              <Mapping SourceColumn="DIA_CHI" DataSetColumn="DIA_CHI" />
+              <Mapping SourceColumn="FAX" DataSetColumn="FAX" />
+              <Mapping SourceColumn="MA_SO_THUE" DataSetColumn="MA_SO_THUE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_V_DM_NHA_CUNG_CAP" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_V_DM_NHA_CUNG_CAP" msprop:Generator_UserDSName="DS_V_DM_NHA_CUNG_CAP">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_DM_NHA_CUNG_CAP" msprop:Generator_TableClassName="V_DM_NHA_CUNG_CAPDataTable" msprop:Generator_TableVarName="tableV_DM_NHA_CUNG_CAP" msprop:Generator_TablePropName="V_DM_NHA_CUNG_CAP" msprop:Generator_RowDeletingName="V_DM_NHA_CUNG_CAPRowDeleting" msprop:Generator_RowChangingName="V_DM_NHA_CUNG_CAPRowChanging" msprop:Generator_RowEvHandlerName="V_DM_NHA_CUNG_CAPRowChangeEventHandler" msprop:Generator_RowDeletedName="V_DM_NHA_CUNG_CAPRowDeleted" msprop:Generator_UserTableName="V_DM_NHA_CUNG_CAP" msprop:Generator_RowChangedName="V_DM_NHA_CUNG_CAPRowChanged" msprop:Generator_RowEvArgName="V_DM_NHA_CUNG_CAPRowChangeEvent" msprop:Generator_RowClassName="V_DM_NHA_CUNG_CAPRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:decimal" />
+              <xs:element name="MA_DOI_TUONG" msprop:Generator_ColumnVarNameInTable="columnMA_DOI_TUONG" msprop:Generator_ColumnPropNameInRow="MA_DOI_TUONG" msprop:Generator_ColumnPropNameInTable="MA_DOI_TUONGColumn" msprop:Generator_UserColumnName="MA_DOI_TUONG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TEN_DOI_TUONG" msprop:Generator_ColumnVarNameInTable="columnTEN_DOI_TUONG" msprop:Generator_ColumnPropNameInRow="TEN_DOI_TUONG" msprop:Generator_ColumnPropNameInTable="TEN_DOI_TUONGColumn" msprop:Generator_UserColumnName="TEN_DOI_TUONG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SDT" msprop:Generator_ColumnVarNameInTable="columnSDT" msprop:Generator_ColumnPropNameInRow="SDT" msprop:Generator_ColumnPropNameInTable="SDTColumn" msprop:Generator_UserColumnName="SDT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMAIL" msprop:Generator_ColumnVarNameInTable="columnEMAIL" msprop:Generator_ColumnPropNameInRow="EMAIL" msprop:Generator_ColumnPropNameInTable="EMAILColumn" msprop:Generator_UserColumnName="EMAIL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DIA_CHI" msprop:Generator_ColumnVarNameInTable="columnDIA_CHI" msprop:Generator_ColumnPropNameInRow="DIA_CHI" msprop:Generator_ColumnPropNameInTable="DIA_CHIColumn" msprop:Generator_UserColumnName="DIA_CHI" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FAX" msprop:Generator_ColumnVarNameInTable="columnFAX" msprop:Generator_ColumnPropNameInRow="FAX" msprop:Generator_ColumnPropNameInTable="FAXColumn" msprop:Generator_UserColumnName="FAX" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MA_SO_THUE" msprop:Generator_ColumnVarNameInTable="columnMA_SO_THUE" msprop:Generator_ColumnPropNameInRow="MA_SO_THUE" msprop:Generator_ColumnPropNameInTable="MA_SO_THUEColumn" msprop:Generator_UserColumnName="MA_SO_THUE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:V_DM_NHA_CUNG_CAP" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
